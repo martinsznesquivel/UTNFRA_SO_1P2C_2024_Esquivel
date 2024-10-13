@@ -1,0 +1,5 @@
+MemTotal:        2015104 kB
+Chassis Information
+	Manufacturer: Oracle Corporation
+	Type: Other
+	Lock: Not Present

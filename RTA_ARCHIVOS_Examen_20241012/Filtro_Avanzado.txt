@@ -1,0 +1,4 @@
+Mi IP Publica es: 190.172.117.148
+Mi usuario es: root
+El hash de mi Usuario es: $y$j9T$APJmzhoA9fHH5OTRf/D7G/$xSnPhkf2kuacVQrq6m9p5AUe7fGoM9BjcKVqzW3AJO5
+La URL de mi repositorio es: https://github.com/martinsznesquivel/UTNFRA_SO_1P2C_2024_Esquivel
